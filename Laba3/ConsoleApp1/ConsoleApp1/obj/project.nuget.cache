@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ClmG3Kh9apkMLbr81/VJBvyaiblZoROTIuOCq9OHl5Gm9Nw/89HKd4+YTjq0ltPm7OgQaVLTZiTAj6bLihvDVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\intre\\source\\repos\\Laba3\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\intre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
